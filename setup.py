@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='terminal_colours',
-      version='0.3',
+      version='0.4',
       description='A simple package to allow the use of colours when outputting to the terminal',
       url='https://github.com/g-farrow/terminal_colours',
       author='Greg Farrow',
